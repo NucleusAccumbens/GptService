@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ccQ8KcK5a6EX5FKiGPZb5JpKzfh2ef8YPOb5xsXksHo=",
+  "Source": "GptResponseService",
+  "BasePath": "_content/GptResponseService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

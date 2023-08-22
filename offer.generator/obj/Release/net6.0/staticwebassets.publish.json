@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a/oMXs+dl1EJT4lMI+2MTeaXzYGvHgl0ygFqSXq8Dz8=",
+  "Source": "GptResponseService",
+  "BasePath": "_content/GptResponseService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
